@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>StyleSheet Sederhana</title>
+<style>
+	h1
+	{
+	font-family: verdana;
+	color: red;
+	text-align: center;
+	}
+</style>
+</head>
+
+<body>
+	<h1>StyleSheet Sederhana<h1>
+</body>
+</html>
